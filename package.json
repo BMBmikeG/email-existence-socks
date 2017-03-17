@@ -1,6 +1,7 @@
 {
-  "author": "Nicholas Manousos <nmanousos@gmail.com>",
+  "author": "bmbMikeG <mike.groves0@gmail.com>",
   "contributors": [
+    "Nicholas Manousos <nmanousos@gmail.com>",
     "scippio <scippio@2ants.eu>"
   ],
   "name": "email-existence",
@@ -14,9 +15,9 @@
   "version": "0.1.6",
   "repository": {
     "type": "git",
-    "url": "https://github.com/scippio/email-existence.git"
+    "url": "https://github.com/BMBmikeG/email-existence-socks.git"
   },
-  "bugs": "http://github.com/scippio/email-existence/issues",
+  "bugs": "https://github.com/BMBmikeG/email-existence-socks/issues",
   "scripts": {
     "test": "mocha --reporter spec"
   },
