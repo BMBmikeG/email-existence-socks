@@ -4,7 +4,7 @@
     "Nicholas Manousos <nmanousos@gmail.com>",
     "scippio <scippio@2ants.eu>"
   ],
-  "name": "email-existence",
+  "name": "email-existence-socks",
   "description": "Checks existence of email addresses",
   "keywords": [
     "email",
